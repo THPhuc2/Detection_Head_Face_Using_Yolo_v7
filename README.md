@@ -7,12 +7,7 @@
 4. [Dataset](#dataset)
 5. [Training](#training)
 6. [Evaluation](#evaluation)
-7. [Logging](#logging)
-8. [Usage](#usage)
-9. [Results](#results)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Acknowledgements](#acknowledgements)
+
     
 ![Untitled](https://github.com/user-attachments/assets/92dc5b44-02bd-4096-89ac-59df75271bfa)
 
