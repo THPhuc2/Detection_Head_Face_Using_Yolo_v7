@@ -13,9 +13,13 @@
 10. [Contributing](#contributing)
 11. [License](#license)
 12. [Acknowledgements](#acknowledgements)
+    
+![Untitled](https://github.com/user-attachments/assets/92dc5b44-02bd-4096-89ac-59df75271bfa)
+
 
 ## Introduction
 This project focuses on detecting heads and faces using the YoloV7 architecture. The model has been customized to handle multitask learning, specifically for predicting two classes: Head and Face.
+
 
 ## Prerequisites
 - Python 3.8+
